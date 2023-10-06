@@ -11,7 +11,16 @@ Application for raising awareness in the community of Embu-Guaçu (SP) to promot
 We developed our application prototype initially on Figma (you can check our prototype [here](https://www.figma.com/proto/Z710ScXXwlntqW0i2EhGlL/ReAproveite?type=design&node-id=5-3&t=zEbu3xAqM7eQ1vEQ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A3&mode=design) c:), using it as a visual tool to create and design our application interfaces. Since we didn't have highly experienced programmers in our group, we chose to transfer our Figma design into code through the Dhiwise platform. This tool transformed our visual vision into functional code, ready to be implemented, allowing us to focus on the essence of our innovative idea.
 
 ## Demonstration
+Together, we concluded that it would not be feasible to create a database and establish a connection through code to a Database Management System (DBMS) as a way to showcase our application. Instead, we chose to showcase some of the screens you will encounter when using our application.  
 
+The initial screen:  
+![Initial screen in our app](https://i.imgur.com/H2mUIAv.png)  
+
+Login page:  
+![Login page](https://i.imgur.com/LUp3v6W.png)  
+  
+Front page:  
+![Front page](https://i.imgur.com/HRemH9v.png)  
 
 # Description from Dart
 ### Table of contents
