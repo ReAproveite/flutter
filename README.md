@@ -1,5 +1,19 @@
+# Software Application for ReAproveite
+## Project Description
+Application for raising awareness in the community of Embu-Guaçu (SP) to promote the reuse of organic and inorganic materials in daily life.
+<br>
+### Team
+[Daniela](https://www.linkedin.com/in/daniela-j-oliveira-santos-121b2164/)    
+[Larissa](https://www.linkedin.com/in/larissacebrian/)  
+[Nicolle](https://www.linkedin.com/in/santosnicolle/)  
 
-# larissa_gabriele_s_application2
+## Development
+We developed our application prototype initially on Figma (you can check our prototype [here](https://www.figma.com/proto/Z710ScXXwlntqW0i2EhGlL/ReAproveite?type=design&node-id=5-3&t=zEbu3xAqM7eQ1vEQ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A3&mode=design) c:), using it as a visual tool to create and design our application interfaces. Since we didn't have highly experienced programmers in our group, we chose to transfer our Figma design into code through the Dhiwise platform. This tool transformed our visual vision into functional code, ready to be implemented, allowing us to focus on the essence of our innovative idea.
+
+## Demonstration
+
+
+# Description from Dart
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
